@@ -1,4 +1,6 @@
 # Footwear-Sales-Analysis-
+This Tableau-based project analyzes retail sales data to uncover insights across regions, products, retailers, and sales methods. It focuses on identifying areas of high profitability, high returns, and delivery delays. Key recommendations aim to improve return rates, optimize profit margins, and tailor regional strategies. Visualizations include net-of-return analysis, return rate comparisons, and performance by retailer and product category.
+
 Regional & State-Level Profitability
  West Region: Highest overall profit and net-of-return.
 New York: Top profit-generating state but also one of the highest return states.
